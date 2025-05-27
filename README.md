@@ -19,7 +19,7 @@ The analytics team was tasked with answering 10 ad hoc business queries using SQ
 
 - **MySQL** – Joins, CTEs, Subqueries, Window Functions, String/Numeric/Date Functions  
 - **Microsoft Excel** – Charts, Pivot Tables, Conditional Formatting, Data Cleaning, Data Analysis  
-- **Canva & Adobe Express** – For designing presentation slides and enhancing visual appeal  
+- **Canva** – For designing presentation slides and enhancing visual appeal  
 
 ---
 
